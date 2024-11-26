@@ -359,6 +359,7 @@
 "Assets/Challenge 4/Scripts/PlayerControllerX.cs"
 "Assets/Challenge 4/Scripts/RotateCameraX.cs"
 "Assets/Challenge 4/Scripts/SpawnManagerX.cs"
+"Assets/ModTheCube/Cube.cs"
 "Assets/Tutorial 4/Scripts/Enemy.cs"
 "Assets/Tutorial 4/Scripts/EnemySpawner.cs"
 "Assets/Tutorial 4/Scripts/PlayerController.cs"
