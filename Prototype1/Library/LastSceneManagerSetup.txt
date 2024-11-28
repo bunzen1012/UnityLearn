@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/ModTheCube/Scene.unity
+- path: Assets/Tutorial 5/Prototype 5.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

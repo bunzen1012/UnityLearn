@@ -346,6 +346,9 @@
 "Assets/Tutorial 4/Scripts/EnemySpawner.cs"
 "Assets/Tutorial 4/Scripts/PlayerController.cs"
 "Assets/Tutorial 4/Scripts/RotateCamera.cs"
+"Assets/Tutorial 5/Course Library/_Source_Files/Scripts/DestroyAfterDelay.cs"
+"Assets/Tutorial 5/GameManager.cs"
+"Assets/Tutorial 5/Target.cs"
 -langversion:9.0
 
 /deterministic
